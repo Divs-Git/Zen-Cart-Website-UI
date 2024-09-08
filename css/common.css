@@ -55,3 +55,10 @@ body {
 #header .header-wrapper .user-actions a:hover {
   text-decoration-line: underline;
 }
+
+.home-title {
+  font-size: 2.5rem;
+  margin-top: 5rem;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+}
